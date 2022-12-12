@@ -1,0 +1,117 @@
+body {
+    color: #40514E;
+    margin: 20px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 1rem;
+}
+h1 {
+    
+    color: rgba(9, 182, 182, 0.825);
+    font-size: 5.5rem;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    font-weight: normal;
+    color: rgba(9, 182, 182, 0.825);
+}
+
+h3 {
+    color: rgba(9, 182, 182, 0.825);
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+
+a{
+    color: #11999E;
+}
+.top-container {
+    padding-top: 100px;
+    position: relative;
+    background-color: rgb(183, 241, 250);
+    
+    
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 40px 50px ;
+    margin: auto 0 auto;
+
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto;
+    
+}
+
+#p1 {
+    color: rgba(6, 168, 168, 0.825);
+
+    margin: 0.5rem auto 0 auto;
+    font-size: 2.5rem;
+
+}
+
+.profile {
+    margin-top: 20px;
+
+}
+.web {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top: 40px;
+
+}
+
+.skill-row {
+
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    margin: 100px auto 100px auto;
+
+}
+
+.readImg {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.compImg {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
